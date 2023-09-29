@@ -6,7 +6,7 @@ Para o desenvolvimento dos códigos deste repositório, foi utilizada a IDE Dev 
 ## Sobre o Projeto
 
 Este projeto foi criado com base nos tópicos de estudo da disciplina Estrutura de Dados. Cada código tem comentários sobre as etapas e o papel de cada função, struct e/ou variável executa.
-Apesar dos arquivos serem em C++, o código é estruturado com base na linguagem C, com a utilização de ponteiros e da função MALLOC para alocação de memória das structs
+Apesar dos arquivos serem em C++, o código é estruturado com base na linguagem C, com a utilização de ponteiros e da função MALLOC para alocação de memória das structs.
 
 ## Tópicos contemplados neste repositório
 
